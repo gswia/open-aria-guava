@@ -37,7 +37,7 @@ subprojects {
     dependencies {
         implementation("org.mitre:commons:0.0.59")
 
-        implementation("com.google.guava:guava:33.6.0-jre")
+        implementation("com.google.guava:guava:33.7.2-jre")
         implementation("com.google.code.gson:gson:2.8.9")
 
         implementation("org.apache.commons:commons-math3:3.6.1")
